@@ -5,6 +5,8 @@ This project is an NLP-based Emotion Detection application that predicts the emo
 
 It uses Machine Learning techniques to classify text into different emotion categories.
 
+🚀 **[Live Demo: EmotionSense AI](https://emotionsense-ai-fjnb.onrender.com)**
+
 ## Technologies Used
 - Python
 - Streamlit
